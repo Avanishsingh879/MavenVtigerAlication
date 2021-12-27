@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test1(failed)" preserve-order="true">
+    <classes>
+      <class name="Com.crmVtigerApplication.Test.Login.Login_TestScript">
+        <methods>
+          <include name="Verify_LoginTest"/>
+          <include name="Test_VerifyOpenURL"/>
+          <include name="Verify_HomeLogo"/>
+        </methods>
+      </class> <!-- Com.crmVtigerApplication.Test.Login.Login_TestScript -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
